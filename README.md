@@ -1,4 +1,4 @@
-# Machine-Learning-Predictions-Housing-Prices-Titanic-Survival-D-atasets
+# Machine-Learning-Predictions-Housing-Prices-Titanic-Survival-Datasets
 
 
 ## Author
