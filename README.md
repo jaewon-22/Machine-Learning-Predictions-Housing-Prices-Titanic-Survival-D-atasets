@@ -2,7 +2,7 @@
 
 
 ## Author
-**Iustin-Andrei Moisa-Tudor**  
+**Jaewon Tudor**  
 
 ## Overview
 This project covers two main machine learning tasks:  
